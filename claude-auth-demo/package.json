@@ -1,0 +1,12 @@
+{
+  "name": "claude-auth-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "demo": "npx tsx demo.ts",
+    "usage": "npx tsx usage.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.0"
+  }
+}
